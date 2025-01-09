@@ -152,7 +152,7 @@ class _HomepageState extends State<Homepage> {
                       ),
                     ),
                     SizedBox(
-                      height: MediaQuery.of(context).size.height * 0.24,
+                      height: MediaQuery.of(context).size.height * 0.25,
                       child: Padding(
                         padding: const EdgeInsets.only(top: 8.0),
                         child: CarouselView(
@@ -213,7 +213,7 @@ class _HomepageState extends State<Homepage> {
                       ),
                     ),
                     SizedBox(
-                      height: MediaQuery.of(context).size.height * 0.24,
+                      height: MediaQuery.of(context).size.height * 0.25,
                       child: Padding(
                         padding: const EdgeInsets.only(top: 8.0),
                         child: CarouselView(
